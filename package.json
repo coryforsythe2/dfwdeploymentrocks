@@ -11,6 +11,12 @@
     "type": "git",
     "url": "git+https://github.com/coryforsythe2/dfwdeploymentrocks.git"
   },
+  "dependencies":{
+    "wobot":"*"
+  },
+  "devDependencies":{
+    "grunt":"*"
+  },
   "author": "awscory",
   "license": "MIT",
   "bugs": {

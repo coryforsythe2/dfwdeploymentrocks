@@ -11,17 +11,17 @@
     "type": "git",
     "url": "git+https://github.com/coryforsythe2/dfwdeploymentrocks.git"
   },
-  "dependencies":{
-    "wobot":"*"
+  "dependencies": {
+    "express": "^4.13.4"
   },
-  "devDependencies":{
-    "grunt":"*"
+  "devDependencies": {
+    "grunt": "*"
   },
   "author": "awscory",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/coryforsythe2/dfwdeploymentrocks/issues"
   },
-    "engine": "node >= 0.12",
+  "engine": "node >= 0.12",
   "homepage": "https://github.com/coryforsythe2/dfwdeploymentrocks#readme"
 }

@@ -6,5 +6,5 @@ app.get('/', function (req, res) {
 });
 
 app.listen(process.env.PORT || 3000, function () {
-  console.log('Example app listening!');
+  console.log('Example app listening OK!');
 });

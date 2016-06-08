@@ -16,7 +16,8 @@
   },
   "devDependencies": {
     "grunt": "*",
-    "grunt-contrib-qunit":"*"
+    "grunt-contrib-qunit": "*",
+    "qunitjs": "^2.0.0-rc1"
   },
   "author": "awscory",
   "license": "MIT",

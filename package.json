@@ -1,0 +1,20 @@
+{
+  "name": "dfwdeploymentrocks",
+  "version": "1.0.0",
+  "description": "This is for class!",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coryforsythe2/dfwdeploymentrocks.git"
+  },
+  "author": "awscory",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coryforsythe2/dfwdeploymentrocks/issues"
+  },
+  "homepage": "https://github.com/coryforsythe2/dfwdeploymentrocks#readme"
+}

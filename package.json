@@ -22,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/coryforsythe2/dfwdeploymentrocks/issues"
   },
+    "engine": "node >= 0.4.1",
   "homepage": "https://github.com/coryforsythe2/dfwdeploymentrocks#readme"
 }

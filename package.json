@@ -15,7 +15,8 @@
     "express": "^4.13.4"
   },
   "devDependencies": {
-    "grunt": "*"
+    "grunt": "*",
+    "grunt-contrib-qunit":"*"
   },
   "author": "awscory",
   "license": "MIT",
